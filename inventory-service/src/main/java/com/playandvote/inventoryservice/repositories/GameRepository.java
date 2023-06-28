@@ -1,4 +1,9 @@
 package com.playandvote.inventoryservice.repositories;
 
-public interface GameRepository {
+import com.playandvote.inventoryservice.entities.Game;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.UUID;
+
+public interface GameRepository extends JpaRepository<Game, UUID> {
 }
