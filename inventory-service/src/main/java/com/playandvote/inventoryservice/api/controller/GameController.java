@@ -1,4 +1,4 @@
 package com.playandvote.inventoryservice.api.controller;
 
-public class CarController {
+public class GameController {
 }

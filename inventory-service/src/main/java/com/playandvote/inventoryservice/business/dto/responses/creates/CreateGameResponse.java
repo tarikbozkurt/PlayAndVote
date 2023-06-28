@@ -1,4 +1,4 @@
 package com.playandvote.inventoryservice.business.dto.responses.creates;
 
-public class CreateCarResponse {
+public class CreateGameResponse {
 }

@@ -1,4 +1,4 @@
 package com.playandvote.inventoryservice.repositories;
 
-public interface CarRepository {
+public interface GameRepository {
 }
